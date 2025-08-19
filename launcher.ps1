@@ -1,10 +1,11 @@
-# Paramètres du repo
+# Lancer tous les scripts PowerShell (.ps1) présents dans le dossier 'installers' du dépôt public Roxasnake/Master
+
 $repo = "Roxasnake/Master"
 $branch = "main"
 $folder = "installers"
 
-# Récupère la liste des scripts dans le dossier "installers" via l'API GitHub
 $apiUrl = "https://api.github.com/repos/$repo/contents/$folder?ref=$branch"
+
 try {
     $response = Invoke-RestMethod -Uri $apiUrl -Headers @{ "User-Agent" = "Mozilla/5.0" }
     $ps1files = $response | Where-Object { $_.name -like "*.ps1" }
