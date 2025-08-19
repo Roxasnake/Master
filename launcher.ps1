@@ -1,10 +1,6 @@
 # Lancer tous les scripts PowerShell (.ps1) présents dans le dossier 'installers' du dépôt public Roxasnake/Master
 
-$repo = "Roxasnake/Master"
-$branch = "main"
-$folder = "installers"
-
-$apiUrl = "https://api.github.com/repos/$repo/contents/$folder?ref=$branch"
+$apiUrl = "https://api.github.com/repos/Roxasnake/Master/contents/installers?ref=main"
 
 try {
     $response = Invoke-RestMethod -Uri $apiUrl -Headers @{ "User-Agent" = "Mozilla/5.0" }
