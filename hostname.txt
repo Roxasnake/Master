@@ -10,7 +10,7 @@
 [IDF - fixe] Dernier : 285 | Suivant : FRIDFPDEKA00286
 [HQ - portable] Dernier : 78 | Suivant : FRHQPLAPA00079
 [HQ - fixe] Dernier : 9 | Suivant : FRHQPDEKA00010
-[DEV - portable] Dernier : 0 | Suivant : FRDEVPLAPA00001
-[DEV - fixe] Dernier : 0 | Suivant : FRDEVPDEKA00001
+[DVP - portable] Dernier : 33 | Suivant : FRDVPPLAPA00034
+[DVP - fixe] Dernier : 10 | Suivant : FRDVPPDEKA00011
 [ALE - portable] Dernier : 55 | Suivant : FRALEPLAPA00056
 [ALE - fixe] Dernier : 93 | Suivant : FRALEPDEKA00094
