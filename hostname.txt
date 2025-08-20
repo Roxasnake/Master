@@ -1,16 +1,16 @@
-[NOR - portable] Dernier : 133 | Suivant : FRNORPLAPA00134
-[NOR - fixe] Dernier : 230 | Suivant : FRNORPDEKA00231
-[ATL - portable] Dernier : 297 | Suivant : FRATLPLAPA00298
-[ATL - fixe] Dernier : 700 | Suivant : FRATLPDEKA00701
-[LOR - portable] Dernier : 71 | Suivant : FRLORPLAPA00072
-[LOR - fixe] Dernier : 239 | Suivant : FRLORPDEKA00240
-[EST - portable] Dernier : 90 | Suivant : FRESTPLAPA00091
-[EST - fixe] Dernier : 225 | Suivant : FRESTPDEKA00226
-[IDF - portable] Dernier : 114 | Suivant : FRIDFPLAPA00115
-[IDF - fixe] Dernier : 285 | Suivant : FRIDFPDEKA00286
-[HQ - portable] Dernier : 78 | Suivant : FRHQPLAPA00079
-[HQ - fixe] Dernier : 9 | Suivant : FRHQPDEKA00010
-[DVP - portable] Dernier : 33 | Suivant : FRDVPPLAPA00034
-[DVP - fixe] Dernier : 10 | Suivant : FRDVPPDEKA00011
-[ALE - portable] Dernier : 55 | Suivant : FRALEPLAPA00056
-[ALE - fixe] Dernier : 93 | Suivant : FRALEPDEKA00094
+FRNORPLAPA00134
+FRNORPDEKA00231
+FRATLPLAPA00298
+FRATLPDEKA00701
+FRLORPLAPA00072
+FRLORPDEKA00240
+FRESTPLAPA00091
+FRESTPDEKA00226
+FRIDFPLAPA00115
+FRIDFPDEKA00286
+FRHQPLAPA00079
+FRHQPDEKA00010
+FRDVPPLAPA00034
+FRDVPPDEKA00011
+FRALEPLAPA00056
+FRALEPDEKA00094
